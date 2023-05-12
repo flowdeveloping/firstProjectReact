@@ -1,0 +1,32 @@
+1) iniciar en consola 
+npx create-react-app nombre-de-app
+2) en vsc 
+HACER EN TERMINAL BASH
+npm run
+3)npm start en terminal
+
+➡️<> tag fantasmas
+➡️syntax =mas optima a sintaxis
+mas comodo cuando sabes programar
+
+➡️polyfills y la retrocompatibilidad
+
+➡️ECMASCRIPT 6
+
+➡️porque necesito ser retrocompatible? para que funcione en todos lados
+
+➡️package.json que es? es un listado de la dependencia, listado de libreria que tiene cada proyecto
+➡️dependencias hay 7 librerias 
+➡️dependencias hay 7 librerias 
+➡️webpack empaquetador de modulos, npm es una libreria
+
+➡️node modules tiene todo, librerias,modulos
+
+➡️jsx es una sintaxis de js que se parece a html
+
+
+➡️import React from "react"; importo toda la libreria de react en react mismo 
+
+➡️export default
+
+➡️rfc dentro del jsx 
